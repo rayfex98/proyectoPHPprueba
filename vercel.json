@@ -1,10 +1,18 @@
 {
     "functions": {
+<<<<<<< HEAD
       "api/index.php": {
+=======
+      "api/*.php": {
+>>>>>>> parent of 3a92468 (nuevo php)
         "runtime": "vercel-php@0.7.2"
       }
     },
     "routes": [
       { "src": "/(.*)",  "dest": "/api/index.php" }
     ]
+<<<<<<< HEAD
   }
+=======
+  }
+>>>>>>> parent of 3a92468 (nuevo php)
